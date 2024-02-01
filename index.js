@@ -1,5 +1,4 @@
 import { dataPhone } from './dataPhone.js';
-console.log('dataPhone: ', dataPhone);
 let content = '';
 for (let i = 0; i < dataPhone.length; i++) {
   content += ` 
@@ -15,7 +14,7 @@ for (let i = 0; i < dataPhone.length; i++) {
       <p class="card-text">
       ${dataPhone[i].desc}
       </p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
+      <a href="#" class="btn btn-primary">Xem chi tiết</a>
     </div>
   </div>
 </div>
