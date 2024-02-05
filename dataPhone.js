@@ -7,7 +7,7 @@ export const dataPhone = [
     backCamera: '2 camera 12 MP',
     frontCamera: '7 MP',
     img: 'product1.png',
-    desc: 'Thiết kế mang tính đột phá',
+    desc: 'amazing product',
     type: 'iphone',
   },
   {
@@ -18,7 +18,7 @@ export const dataPhone = [
     backCamera: ' Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP',
     frontCamera: ' 32 MP',
     img: 'product2.png',
-    desc: 'Thiết kế đột phá, màn hình tuyệt đỉnh',
+    desc: 'amazing product , perfect',
     type: 'Samsung',
   },
   {
@@ -29,7 +29,7 @@ export const dataPhone = [
     backCamera: 'Chính 12 MP & Phụ 64 MP, 12 MP',
     frontCamera: ' 32 MP',
     img: 'product3.png',
-    desc: 'Thiết kế mang tính đột phá',
+    desc: 'amazing product',
     type: 'Samsung',
   },
   {
@@ -40,7 +40,7 @@ export const dataPhone = [
     backCamera: 'Camera: Chính 12 MP & Phụ 64 MP, 12 MP',
     frontCamera: '32 MP',
     img: 'product4.png',
-    desc: 'Thiết kế đột phá, màn hình tuyệt đỉnh',
+    desc: 'amazing product , perfect',
     type: 'Iphone',
   },
 ];
